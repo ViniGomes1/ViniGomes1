@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou @ViniGomes1
+- 👋 Oi, eu sou o Vinicius Gomes
 - 👀 Estou interessado em programar
 - 🌱 Estou aprendendo Java
 - 💞️ Estou procurando um estagio em programação
