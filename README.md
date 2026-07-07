@@ -1,7 +1,5 @@
 - 👋 Oi, eu sou o Vinicius Gomes
 - 👀 Estou interessado em programar
-- 🌱 Estou aprendendo Java
-- 💞️ Estou procurando um estagio em programação
 - 📫 Como chegar até mim https://www.linkedin.com/in/vinicius-gomes-97705a191/
 - 📄 Currículo online https://vinigomes1.github.io/
 <!---
